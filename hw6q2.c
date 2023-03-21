@@ -40,7 +40,7 @@ int main()
 {
     // uncomment next line if you don't know the answer
 	// printIDontKnow();
-
+    printf("Hello Git!");
 	int n, x;
 	int* arr = ReadArray(&n);
 	if (arr == NULL)
